@@ -28,7 +28,7 @@ stack = {
 
 ### what's on here
 
-most of my repos are me trying to solve a specific problem i found interesting enough to spend a weekend on. the football impact rating system is the one i'm most proud of right now — it is a full ML pipeline that scores Premier League players on what they actually do rather than just goals and assists. live on Streamlit if you want to poke at it.
+most of my repos are me trying to solve a specific problem i found interesting enough to spend a weekend on. the football impact rating system is the one i'm most proud of right now - it is a full ML pipeline that scores Premier League players on what they actually do rather than just goals and assists. live on Streamlit if you want to poke at it.
 
 more coming. i build in public because it is the fastest way to get better.
 
@@ -37,7 +37,7 @@ more coming. i build in public because it is the fastest way to get better.
 ### where i am right now
 
 - second year CS at SRM
-- getting comfortable with the full data pipeline — from messy raw data to something a human can actually use
+- getting comfortable with the full data pipeline - from messy raw data to something a human can actually use
 - looking for internships, collabs, and people who want to argue about model design
 
 ---
