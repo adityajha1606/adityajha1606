@@ -2,13 +2,13 @@
 
 # hey, i'm aditya 👾
 
-**CS undergrad @ SRM · building things with data since august 2024**
+**CS undergrad @ SRM · building things with data since 2024**
 
 </div>
 
 ---
 
-i'm 20, studying computer science, and somewhere around august last year i stopped just *learning* ML and started actually *building* with it.
+i'm 20, studying computer science, and somewhere around october last year i stopped just *learning* ML and started actually *building* with it.
 
 still figuring things out. the projects on this profile are how i do that.
 
@@ -44,7 +44,7 @@ more coming. i build in public because it is the fastest way to get better.
 
 <div align="center">
 
-*20 years old · srm institute · building since august 2024*
+*20 years old · srm institute · building what i like and want*
 
 [![GitHub](https://img.shields.io/badge/adityajha1606-100000?style=flat&logo=github&logoColor=white)](https://github.com/adityajha1606)
 
