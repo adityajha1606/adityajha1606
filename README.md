@@ -18,13 +18,14 @@ most of what i know came from deciding a problem was interesting enough to spend
 
 ```python
 aditya = {
-    "languages"      : ["Python", "C++", "SQL"],
-    "ml"             : ["scikit-learn", "NumPy", "Andrew Ng survivor"],
-    "web"            : ["FastAPI", "Streamlit", "REST APIs"],
-    "databases"      : ["PostgreSQL", "DBMS", "window functions without googling"],
-    "cs_fundamentals": ["OS", "CN", "DBMS - yes the actual theory not just vibes"],
-    "tools"          : ["Git", "Docker", "Jupyter"],
-    "currently"      : "making things that actually run in production"
+    "languages"       : ["Python", "C++", "Java", "SQL"],
+    "ml"              : ["scikit-learn", "NumPy", "Andrew Ng survivor"],
+    "web"             : ["FastAPI", "Streamlit", "REST APIs", "Chrome Extension APIs"],
+    "databases"       : ["PostgreSQL", "SQLite", "window functions without googling"],
+    "cs_fundamentals" : ["OS", "CN", "DBMS - yes the actual theory not just vibes"],
+    "tools"           : ["Git", "Docker", "Jupyter", "Maven"],
+    "leetcode"        : "200 problems and counting",
+    "currently"       : "making things that actually run in production"
 }
 ```
 
@@ -33,6 +34,10 @@ aditya = {
 ### what's on here
 
 **Football Impact Rating** - full ML pipeline that scores Premier League players on what they actually do rather than just goals and assists. because Kanté deserved better than 0 goals 0 assists, and so did every centre-back in history. live on Streamlit, go poke at it.
+
+**MeterDown** *(contributor)* - Java Swing desktop app that aggregates Uber, Ola, and Rapido fares side by side for Chennai. i worked on the booking workflow, SQLite database layer, and Google Maps API integration. MVC architecture, SHA-256 auth, the works. also my first time building something that genuinely felt like a product.
+
+**OpenIris** *(contributor)* - Chrome extension for colour vision deficiency. injects SVG `feColorMatrix` filters directly into any webpage in real time - zero lag because the browser's own rendering engine does the heavy lifting. i worked on the content script architecture and the filter injection logic. turns out making the web accessible is both technically interesting and just the right thing to do.
 
 **more coming** - FastAPI backend, live data, real model. not a tutorial clone.
 
@@ -44,6 +49,7 @@ aditya = {
 - implement gradient descent in NumPy - not run provided code, write it myself
 - write SQL with window functions and CTEs without opening a new tab
 - explain ACID, the Linux CFS scheduler, and the TCP handshake from memory
+- hook into browser APIs and manipulate the DOM in ways that actually help people
 - deploy something with a real URL that works on someone else's machine
 
 ---
@@ -53,9 +59,6 @@ aditya = {
 - system design beyond "add a cache"
 - graphs on LeetCode (we don't talk about graphs yet)
 - making my commit messages sound like a professional and not a sleep-deprived student
-
-
-```
 
 ---
 
