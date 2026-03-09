@@ -23,7 +23,7 @@ aditya = {
     "web"             : ["FastAPI", "Streamlit", "REST APIs", "Chrome Extension APIs"],
     "databases"       : ["PostgreSQL", "SQLite", "window functions without googling"],
     "cs_fundamentals" : ["OS", "CN", "DBMS - yes the actual theory not just vibes"],
-    "tools"           : ["Git", "Docker", "Jupyter", "Maven"],
+    "tools"           : ["Git","Jupyter"],
     "leetcode"        : "200 problems and counting",
     "currently"       : "making things that actually run in production"
 }
