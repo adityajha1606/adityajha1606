@@ -2,25 +2,29 @@
 
 # hey, i'm aditya 👾
 
-**CS undergrad @ SRM · building things with data since 2024**
+**CS undergrad @ SRM · i build things with data**
 
 </div>
 
 ---
 
-i'm 20, studying computer science, and somewhere around october last year i stopped just *learning* ML and started actually *building* with it.
+i'm 20, studying computer science at SRM, and i've reached the point where building something and putting it on the internet is more satisfying than any assignment ever will be.
 
-still figuring things out. the projects on this profile are how i do that.
+most of what i know came from deciding a problem was interesting enough to spend a weekend on it.
 
 ---
 
-### what i'm working with
+### the stack
+
 ```python
-stack = {
-    "languages"  : ["Python", "SQL"],
-    "ml"         : ["scikit-learn", "pandas", "NumPy"],
-    "deployment" : ["Streamlit", "Git"],
-    "currently"  : "learning how to ask better questions of data"
+aditya = {
+    "languages"      : ["Python", "C++", "SQL"],
+    "ml"             : ["scikit-learn", "NumPy", "Andrew Ng survivor"],
+    "web"            : ["FastAPI", "Streamlit", "REST APIs"],
+    "databases"      : ["PostgreSQL", "DBMS", "window functions without googling"],
+    "cs_fundamentals": ["OS", "CN", "DBMS - yes the actual theory not just vibes"],
+    "tools"          : ["Git", "Docker", "Jupyter"],
+    "currently"      : "making things that actually run in production"
 }
 ```
 
@@ -28,23 +32,36 @@ stack = {
 
 ### what's on here
 
-most of my repos are me trying to solve a specific problem i found interesting enough to spend a weekend on. the football impact rating system is the one i'm most proud of right now - it is a full ML pipeline that scores Premier League players on what they actually do rather than just goals and assists. live on Streamlit if you want to poke at it.
+**Football Impact Rating** - full ML pipeline that scores Premier League players on what they actually do rather than just goals and assists. because Kanté deserved better than 0 goals 0 assists, and so did every centre-back in history. live on Streamlit, go poke at it.
 
-more coming. i build in public because it is the fastest way to get better.
+**more coming** - FastAPI backend, live data, real model. not a tutorial clone.
 
 ---
 
-### where i am right now
+### things i can actually do
 
-- second year CS at SRM
-- getting comfortable with the full data pipeline - from messy raw data to something a human can actually use
-- looking for internships, collabs, and people who want to argue about model design
+- build a data pipeline from scratch and explain every decision in it
+- implement gradient descent in NumPy - not run provided code, write it myself
+- write SQL with window functions and CTEs without opening a new tab
+- explain ACID, the Linux CFS scheduler, and the TCP handshake from memory
+- deploy something with a real URL that works on someone else's machine
+
+---
+
+### things i'm still figuring out
+
+- system design beyond "add a cache"
+- graphs on LeetCode (we don't talk about graphs yet)
+- making my commit messages sound like a professional and not a sleep-deprived student
+
+
+```
 
 ---
 
 <div align="center">
 
-*20 years old · srm institute · building what i like and want*
+*20 years old · srm institute · building in public because it's the fastest way to get better*
 
 [![GitHub](https://img.shields.io/badge/adityajha1606-100000?style=flat&logo=github&logoColor=white)](https://github.com/adityajha1606)
 
