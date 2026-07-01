@@ -6,7 +6,7 @@
 
 *and occasionally questioning my life choices at 2am over a bug that was a missing semicolon*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+%2B+ML+Engineer+in+the+making;Deployed+to+production+before+3rd+year;K-Means+over+DBSCAN+%E2%80%94+fight+me;Currently+surviving+on+chai+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+%2B+ML+Engineer+in+the+making;Deployed+to+production+before+3rd+year;K-Means+over+DBSCAN+%E2%80%94+fight+me;Running+on+Fury+Road+energy%2C+zero+excuses)](https://git.io/typing-svg)
 
 ![](https://img.shields.io/badge/🎓_B.Tech_CSE-SRM_KTR-blue?style=flat-square)
 ![](https://img.shields.io/badge/📍_Chennai-→_Anywhere-green?style=flat-square)
@@ -94,7 +94,8 @@
 - 🔒 I implemented government-grade audit trails for a PSU before I turned 20. BCrypt, magic-byte validation, append-only logs. My threat model was *"government auditor having a bad day."*
 - 📊 My ML project produces interpretable outputs because a scout needs to explain a rating to a sporting director. Black-box outputs help nobody.
 - 🌙 I write better code after midnight. This is a bug I've accepted as a feature.
-- ☕ Current chai-to-code ratio: dangerously high. Not changing this.
+- 🎬 First rule of my codebase: you do not talk about the codebase. Second rule: you *definitely* do not talk about the codebase.
+- 🔥 Deploying to prod hits different when you do it Immortan Joe style — "I live, I deploy, I deploy again." Witness my commit history.
 
 ---
 
@@ -133,7 +134,7 @@ I'm actively looking for internships and interesting problems. If you're buildin
 
 ---
 
-*Built with caffeine, stubbornness, and a genuine belief that good engineering is worth doing properly.*
+*Built with chrome, chaos, and a genuine belief that good engineering is worth doing properly.*
 
 ![Profile views](https://komarev.com/ghpvc/?username=adityajha1606&color=58a6ff&style=flat-square)
 
