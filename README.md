@@ -95,7 +95,7 @@
 - 📊 My ML project produces interpretable outputs because a scout needs to explain a rating to a sporting director. Black-box outputs help nobody.
 - 🌙 I write better code after midnight. This is a bug I've accepted as a feature.
 - 🎬 First rule of my codebase: you do not talk about the codebase. Second rule: you *definitely* do not talk about the codebase.
-- 🔥 Deploying to prod hits different when you do it Immortan Joe style — "I live, I deploy, I deploy again." Witness my commit history.
+- 🔥 "I live, I deploy, I deploy again." - Coder Joe
 
 ---
 
