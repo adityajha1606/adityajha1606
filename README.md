@@ -2,11 +2,11 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I'm Aditya Jha
 
-**Building things that actually ship · SRM KTR · Chennai, India**
+**Building things that actually ship · SRM KTR ·  India**
 
 *and occasionally questioning my life choices at 2am over a bug that was a missing semicolon*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+%2B+ML+Engineer+in+the+making;Deployed+to+production+before+3rd+year;K-Means+over+DBSCAN+%E2%80%94+fight+me;Running+on+Fury+Road+energy%2C+zero+excuses)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+%2B+ML+Engineer+in+the+making;Deployed+to+production+before+3rd+year;K-Means+over+DBSCAN+%E2%80%94+fight+me;WITNESSSS+MEEEEEEEE)](https://git.io/typing-svg)
 
 ![](https://img.shields.io/badge/🎓_B.Tech_CSE-SRM_KTR-blue?style=flat-square)
 ![](https://img.shields.io/badge/📍_Chennai-→_Anywhere-green?style=flat-square)
