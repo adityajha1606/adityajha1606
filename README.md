@@ -7,7 +7,7 @@
 Hello nice to meet you !!!!!!!!!!!!!!!!
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%2B+ML+Engineer+in+the+making;Deployed+to+production+before+3rd+year;K-Means+over+DBSCAN+%E2%80%94+fight+me;WITNESSSS+MEEEEEEEE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%2B+ML+Engineer+in+the+making;Deployed+to+production+before+3rd+year;Coding+is+Hard+so+am+I;WITNESSSS+MEEEEEEEE" alt="Typing SVG" />
 </p>
 
 ![](https://img.shields.io/badge/🎓_B.Tech_CSE-SRM_KTR-blue?style=flat-square)
