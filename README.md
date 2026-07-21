@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1A1A1A&height=190&section=header&text=Hey%2C%20I%27m%20Aditya%20Jha&fontSize=38&fontColor=F5F0E6&animation=fadeIn&fontAlignY=42&fontFamily=JetBrains%20Mono" width="100%" alt="Hey, I'm Aditya Jha"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8C6239,50:D4AF37,100:F5D061&height=190&section=header&text=Hey%2C%20I%27m%20Aditya%20Jha&fontSize=38&fontColor=1A1208&animation=fadeIn&fontAlignY=42&fontFamily=JetBrains%20Mono" width="100%" alt="Hey, I'm Aditya Jha"/>
 </div>
 
 <p align="center">
@@ -171,5 +171,5 @@ I'm open to internships and interesting projects. If you're working on something
 [LinkedIn](https://www.linkedin.com/in/jhaadi/) · [Portfolio](https://adityajha1606.github.io/) · [Email](mailto:ajjha1606@gmail.com)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1A1A1A&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8C6239,50:D4AF37,100:F5D061&height=120&section=footer" width="100%"/>
 </div>
