@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm a 2nd-year CS student who genuinely enjoys building things that real people end up using. Not everything I've made has been perfect, but it shipped, it worked, and I can explain every decision I made along the way. Right now I'm focused on getting better at the fundamentals: system design, databases, distributed systems, and writing code I'd be proud to have someone else read.
+I'm a 3rd-year CS student who genuinely enjoys building things that real people end up using. Not everything I've made has been perfect, but it shipped, it worked, and I can explain every decision I made along the way. Right now I'm focused on getting better at the fundamentals: system design, databases, distributed systems, and writing code I'd be proud to have someone else read.
 
 - Built a production event management system for NMDC Limited (India's largest iron-ore PSU) - solo, 5 weeks, from architecture to IIS deployment. The old process was Excel sheets and manual follow-ups.
 - Created an ML engine that rates football players using 6 composite metrics instead of just goals and assists. Used K-Means clustering to group player archetypes: I chose that over DBSCAN because outliers felt like important signals, not noise.
